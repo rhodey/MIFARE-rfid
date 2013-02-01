@@ -26,4 +26,6 @@ http://en.wikipedia.org/wiki/MIFARE#MIFARE_Classic
 
 A lesson in bad research practices: It wasn't until I was 95% of the way
 through writing this daemon that I discovered I was using MIFARE Classic
-tags and MIFARE Classic had already been reverse-engineered.
+tags and MIFARE Classic had already been reverse-engineered. Because I
+wasn't exactly aware of the protocol I was reversing, some naming
+conventions and comments are a bit misleading.
